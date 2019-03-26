@@ -2205,3 +2205,21 @@ textarea.form-control {
 /* ====== The End ====== */
 
 /*# sourceMappingURL=style.css.map */
+
+.row-right {
+  width: calc(50% - 10px);
+  float: left;
+  padding-left: 10px;
+  color: #777777;
+}
+
+.row-left {
+  width: calc(50% - 10px);
+  float: left;
+  padding-right: 10px;
+  color: #777777;
+}
+
+a, a:hover, a:focus {
+  color: #ffffff;
+}
